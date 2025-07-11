@@ -28,6 +28,11 @@ Supports screenshots, keystroke logging, process listing, shell commands, and sy
 
 📁 See [`DirtyRAT/`](./DirtyRAT) folder for code and instructions.
 
+
+## 📚 Educational Purpose Only
+
+This entire repository is intended for **educational and ethical use only**.
+
 # ⚠️ Disclaimer — Educational Use Only
 
 This project is developed and shared exclusively for **educational and research purposes**.  
@@ -59,15 +64,6 @@ This repository is a learning tool — not a weapon.
 
 ---
 
-## 📚 Educational Purpose Only
-
-This entire repository is intended for **educational and ethical use only**.
-
-> ⚠️ **Disclaimer**  
-> The author is **not responsible** for any misuse of this code.  
-> All tools here are made to learn how malware, remote access, and penetration techniques work — **not to harm, break laws, or intrude without consent**.
-
----
 
 ## 🛠️ What's Next?
 
