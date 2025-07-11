@@ -28,6 +28,35 @@ Supports screenshots, keystroke logging, process listing, shell commands, and sy
 
 📁 See [`DirtyRAT/`](./DirtyRAT) folder for code and instructions.
 
+# ⚠️ Disclaimer — Educational Use Only
+
+This project is developed and shared exclusively for **educational and research purposes**.  
+It is designed to help cybersecurity students, ethical hackers, and researchers understand how remote access tools, socket programming, and system interaction work.
+
+## ❗ Liability Notice
+
+The author (Stylianos Tanellari) and any contributors to this repository:
+
+- **Do NOT condone** the misuse of this code.
+- **Do NOT support** illegal hacking or unauthorized access.
+- **Are NOT responsible** for any harm, loss, legal consequences, or damages caused by the use of this software.
+- **Assume no liability** if you choose to run or distribute this code improperly.
+
+## ✅ Usage Agreement
+
+By cloning, downloading, or using any part of this project, you agree that:
+
+- You will use the tools **only on machines you own** or **have explicit, written permission** to test.
+- You understand that **you use this project at your own risk**.
+- You accept **full responsibility** for your actions.
+
+> If you are not absolutely certain that you are allowed to test a system, then you are not.
+
+---
+
+This repository is a learning tool — not a weapon.
+
+
 ---
 
 ## 📚 Educational Purpose Only
