@@ -28,6 +28,12 @@ Supports screenshots, keystroke logging, process listing, shell commands, and sy
 
 📁 See [`DirtyRAT/`](./DirtyRAT) folder for code and instructions.
 
+🕷️ Project 2 — DirtyWeaver
+
+My high-security steganography tool built in Python. "Weaves" and hides any file within images (PNG/BMP) or audio (WAV/FLAC). 
+Uses modern crypto (AES-GCM, Argon2id) and features a "decoy" password mode for plausible deniability. 
+
+📁 See [`DirtyWeaver/`](./DirtyWeaver) folder for code and instructions.
 
 ## 📚 Educational Purpose Only
 
