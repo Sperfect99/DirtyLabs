@@ -1,0 +1,7 @@
+Pillow
+numpy
+scipy
+argon2-cffi
+cryptography
+tqdm
+pysoundfile
