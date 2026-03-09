@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 Clone the repo and go to the project folder:
 
-git clone https://github.com/yourusername/dirtylabs.git
+git clone https://github.com/Sperfect99/DirtyLabs/tree/main/DirtyRat
 cd dirtylabs/DirtyRAT
 
 Install requirements:
@@ -123,4 +123,5 @@ DirtyRAT is my first attempt to build a remote tool as I enter the world of cybe
 It still needs many improvements, but it helped me learn a lot about sockets, shell interaction, and system control.
 
 Pull requests, issues, and ideas are always welcome ✨
+
 
